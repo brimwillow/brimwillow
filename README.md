@@ -76,7 +76,10 @@ A Brimhat serves no council, but I hold myself to a private code:
 > The sanctioned keepers keep a tally of every seal I draw. Let them watch.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brimwillow&show_icons=true&theme=dark&bg_color=000000&title_color=b8860b&text_color=cccccc&icon_color=9e1b1b&hide_border=true&&include_all_commits=true&count_private=true" alt="the council's tally"/>
+  <img alt="followers" src="https://img.shields.io/github/followers/brimwillow?style=for-the-badge&logo=github&logoColor=white&label=devotees&labelColor=1a1a1a&color=9e1b1b"/>
+  <img alt="following" src="https://img.shields.io/github/followers/brimwillow?style=for-the-badge&logo=github&logoColor=white&label=having-watched&labelColor=1a1a1a&color=b8860b"/>
+  <img alt="stars" src="https://img.shields.io/github/stars/brimwillow?style=for-the-badge&logo=star&logoColor=white&label=blessed&labelColor=1a1a1a&color=b8860b"/>
+  <img alt="profile repo" src="https://img.shields.io/github/repo-size/brimwillow/brimwillow?style=for-the-badge&label=parchment-weight&labelColor=1a1a1a&color=8b5cf6"/>
 </p>
 
 ## 🕯 whispers
