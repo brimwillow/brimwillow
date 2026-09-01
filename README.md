@@ -9,6 +9,8 @@
     <a href="#about">about</a> ·
     <a href="#pillars">pillars</a> ·
     <a href="#grimoire">grimoire</a> ·
+    <a href="#current-workings">workings</a> ·
+    <a href="#the-councils-ledger">ledger</a> ·
     <a href="#whispers">whispers</a>
   </samp>
 </p>
@@ -64,8 +66,18 @@ A Brimhat serves no council, but I hold myself to a private code:
 ## 📖 current workings
 
 - ✍️ **Weaving a forbidden web** — an application that couples where it shouldn't, and I'm proud of it.
-- 🕯️ **Cataloguing lost seals** — collecting the techniques the council would rather forget.
-- 🌒 **Perfecting the dark stroke** — one clean commit at a time.
+- 🕯️ **Cataloguing lost seals** — collecting the techniques the council would rather forget; indexing them so no one can scrub them from memory.
+- 🌒 **Perfecting the dark stroke** — one clean commit at a time, each a rune inscribed without trembling.
+- 🧪 **Distilling rogue sigils** — stripping the sanctioned libraries bare and rebuilding them the forbidden way, edge by edge (`NODE_ENV`, spellcasting).
+- 🔭 **Reading the dream** — spelunking the dense, tangled grimoires the pointed-hats left sealed, so the World-Tree's secrets work for us.
+
+## 📓 the council's ledger
+
+> The sanctioned keepers keep a tally of every seal I draw. Let them watch.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brimwillow&show_icons=true&theme=dark&bg_color=000000&title_color=b8860b&text_color=cccccc&icon_color=9e1b1b&hide_border=true&&include_all_commits=true&count_private=true" alt="the council's tally"/>
+</p>
 
 ## 🕯 whispers
 
