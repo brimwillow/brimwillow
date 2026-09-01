@@ -1,97 +1,97 @@
 <p align="center">
   <samp>
-    <b>Alexander Willow</b>, wielder of the Brimmed Cap.
+    <b>Alexander Willow</b>, apprentice of the Pointed Hat.
   </samp>
 </p>
 
 <p align="center">
   <samp>
     <a href="#about">about</a> ·
-    <a href="#pillars">pillars</a> ·
-    <a href="#grimoire">grimoire</a> ·
-    <a href="#current-workings">workings</a> ·
-    <a href="#the-councils-ledger">ledger</a> ·
-    <a href="#whispers">whispers</a>
+    <a href="#the-atelier">the atelier</a> ·
+    <a href="#studies">studies</a> ·
+    <a href="#fieldwork">fieldwork</a> ·
+    <a href="#ledger">ledger</a> ·
+    <a href="#journal">journal</a>
   </samp>
 </p>
 
 ---
 
-> *"Every seal the Old Witches forbid is merely a spell they feared to wield. My ink has never once obeyed their gentle rules — and I intend to keep it that way."*
+> *"Every seal begins as a careful stroke. Draw it true, and the magic will follow — the atelier teaches patience so the code can learn to sing."*
 
 <p align="center">
-  <img alt="brimhat sigil" src="https://img.shields.io/badge/Order-Brimhat%20Witch-000000?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=9e1b1b"/>
-  <img alt="seals drawn" src="https://img.shields.io/badge/seals%20drawn-∞-000000?style=for-the-badge&labelColor=1a1a1a&color=b8860b"/>
-  <img alt="forbidden magic" src="https://img.shields.io/badge/magic-classified-000000?style=for-the-badge&labelColor=1a1a1a&color=8b5cf6"/>
+  <img alt="order" src="https://img.shields.io/badge/Order-Pointed%20Hat-000000?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=b8860b"/>
+  <img alt="seals" src="https://img.shields.io/badge/seals%20drawn-∞-000000?style=for-the-badge&labelColor=1a1a1a&color=8b5cf6"/>
+  <img alt="magic" src="https://img.shields.io/badge/magic-crafted%20with%20care-000000?style=for-the-badge&labelColor=1a1a1a&color=2e8b57"/>
 </p>
 
 ---
 
-## 🔮 about
+## 🧙 about
 
-They banned certain sigils. I draw them anyway.
+I'm **Alexander Willow** — `@brimwillow` — a **Pointed Hat** apprentice learning to draw magic the proper way: *within the rules, under a master, one precise seal at a time.*
 
-I am **Alexander Willow** — `@brimwillow` — a witch of the **Brimmed Caps**, the order the pointed-hats whisper about in corners. Where the sanctioned witches trace trembling, lawful seals and call it *art*, I carve my own runes in dark, unruly ink and call it *progress*. The circle that rejected us taught me everything I know: draw with intent, never flinch, and let the seal speak for itself.
+Where the old Brimhats hoard forbidden shortcuts, my atelier teaches something harder — diligence. Magic (and software) worth keeping is built stroke by stroke: understand the taught circle, reproduce it faithfully, then ask permission before coloring outside the lines. I believe the sanctioned path has room for wonder, not just warning labels.
 
-This profile is my grimoire. Everything here is forbidden — so naturally, it *works*.
+This profile is my grimoire and my bench. Everything here is a seal I'm still learning to draw.
 
-> The **Brimhat Witches** of Witch Hat Atelier abandoned the authorized magic of the World-Tree (and its kindly keepers) to pursue the raw, dangerous craft others refuse to touch. This is that soul, poured into code.
+> The **Pointed Hat witches** of Witch Hat Atelier master their craft through disciplined study and practice — apprentices like Coco, earnest and endlessly curious, learning under a warm and demanding master. That's the spirit this profile is sealed with.
 
-## 🗝 pillars
+## 🏛 the atelier
 
-A Brimhat serves no council, but I hold myself to a private code:
+A Pointed Hat never works alone. My craft is shaped by whoever holds the quill above mine:
 
-- **Draw the seal that must exist** — if the sanctioned magic can't solve the problem, sign a forbidden one that can. (Last resort is my first resort.)
-- **Ink before asking** — code is a living sigil; refine it in practice, not in theory.
-- **Question every taught circle** — orthodoxy is just tradition that outlived its usefulness.
-- **Never harm what you build** — forbidden magic still answers for its world. Ship with care.
+- **Master & lead** — the senior engineers who sign off my seals before they reach the world. Their red ink is a gift.
+- **Fellow apprentices** — teammates who read my drafts and tell me *why* a sigil will fail before I ship it.
+- **The grimoire** — docs, specs, and READMEs; the accumulated knowledge of everyone who drew before me.
+- **The council of reviewers** — code review as a circle of trust, not a tribunal.
 
-## 📜 grimoire
-
-<p align="center">
-  <img alt="ink:" src="https://img.shields.io/badge/ink-TypeScript-3178c6?style=flat-square&logo=typescript&labelColor=1a1a1a"/>
-  <img alt="ink:" src="https://img.shields.io/badge/ink-React-61dafb?style=flat-square&logo=react&labelColor=1a1a1a"/>
-  <img alt="ink:" src="https://img.shields.io/badge/ink-Python-3776ab?style=flat-square&logo=python&labelColor=1a1a1a"/>
-  <img alt="ink:" src="https://img.shields.io/badge/ink-Go-00add8?style=flat-square&logo=go&labelColor=1a1a1a"/>
-  <img alt="ink:" src="https://img.shields.io/badge/ink-SQL-4479a1?style=flat-square&logo=postgresql&labelColor=1a1a1a"/>
-  <img alt="parchment:" src="https://img.shields.io/badge/parchment-Docker-2496ed?style=flat-square&logo=docker&labelColor=1a1a1a"/>
-  <img alt="parchment:" src="https://img.shields.io/badge/parchment-Linux-FCC624?style=flat-square&logo=linux&labelColor=1a1a1a"/>
-</p>
-
-**My tools are my accoutrements:**
-- **Ink & Quill** — an editor and a terminal; every spell begins as a line of dark ink.
-- **Parchment** — containers and servers, the endless pages where my seals unfold.
-- **Familiar** — a small, tireless appendage that executes whatever I scribe. (We don't name it.)
-
-## 📖 current workings
-
-- ✍️ **Weaving a forbidden web** — an application that couples where it shouldn't, and I'm proud of it.
-- 🕯️ **Cataloguing lost seals** — collecting the techniques the council would rather forget; indexing them so no one can scrub them from memory.
-- 🌒 **Perfecting the dark stroke** — one clean commit at a time, each a rune inscribed without trembling.
-- 🧪 **Distilling rogue sigils** — stripping the sanctioned libraries bare and rebuilding them the forbidden way, edge by edge (`NODE_ENV`, spellcasting).
-- 🔭 **Reading the dream** — spelunking the dense, tangled grimoires the pointed-hats left sealed, so the World-Tree's secrets work for us.
-
-## 📓 the council's ledger
-
-> The sanctioned keepers keep a tally of every seal I draw. Let them watch.
+## 📜 studies
 
 <p align="center">
-  <img alt="followers" src="https://img.shields.io/github/followers/brimwillow?style=for-the-badge&logo=github&logoColor=white&label=devotees&labelColor=1a1a1a&color=9e1b1b"/>
-  <img alt="following" src="https://img.shields.io/github/followers/brimwillow?style=for-the-badge&logo=github&logoColor=white&label=having-watched&labelColor=1a1a1a&color=b8860b"/>
-  <img alt="stars" src="https://img.shields.io/github/stars/brimwillow?style=for-the-badge&logo=star&logoColor=white&label=blessed&labelColor=1a1a1a&color=b8860b"/>
-  <img alt="profile repo" src="https://img.shields.io/github/repo-size/brimwillow/brimwillow?style=for-the-badge&label=parchment-weight&labelColor=1a1a1a&color=8b5cf6"/>
+  <img alt="ink" src="https://img.shields.io/badge/ink-TypeScript-3178c6?style=flat-square&logo=typescript&labelColor=1a1a1a"/>
+  <img alt="ink" src="https://img.shields.io/badge/ink-React-61dafb?style=flat-square&logo=react&labelColor=1a1a1a"/>
+  <img alt="ink" src="https://img.shields.io/badge/ink-Python-3776ab?style=flat-square&logo=python&labelColor=1a1a1a"/>
+  <img alt="ink" src="https://img.shields.io/badge/ink-Go-00add8?style=flat-square&logo=go&labelColor=1a1a1a"/>
+  <img alt="ink" src="https://img.shields.io/badge/ink-SQL-4479a1?style=flat-square&logo=postgresql&labelColor=1a1a1a"/>
+  <img alt="parchment" src="https://img.shields.io/badge/parchment-Docker-2496ed?style=flat-square&logo=docker&labelColor=1a1a1a"/>
+  <img alt="parchment" src="https://img.shields.io/badge/parchment-Linux-FCC624?style=flat-square&logo=linux&labelColor=1a1a1a"/>
 </p>
 
-## 🕯 whispers
+**My accoutrements:**
+- **Ink & quill** — an editor and a terminal; every seal begins as a line of patient ink.
+- **Parchment** — containers and services; the clean pages where my spells unfold.
+- **The scrolls** — version control; every stroke traced so a younger apprentice can learn from my mistakes.
 
-- The pointed-hats teach that forbidden magic eats the caster. My counter-argument: it has yet to finish lunch.
-- I take requests — especially the ones that make official witches uncomfortable.
-- My ink is always wet. Hire a brimhat if you dare.
+## 🔭 fieldwork
+
+- ✍️ **Drawing a first big seal** — building a full-stack application the atelier reviewed line by line; submitted, revised, and proud of it.
+- 🕯️ **Copying master strokes** — reading high-quality codebases and reproducing their patterns faithfully to build my muscle memory.
+- 🌒 **Practicing the clean stroke** — one thoughtful commit at a time, preferring small, reviewable seals over sprawling ones.
+- 🧪 **Better junior ceremony** — turning the atelier's tooling into something clearer to follow (type-safe, well-named, documented).
+- 📚 **Studying the forbidden scrolls, responsibly** — reading hard tabs and edge cases with a master nearby, so curiosity never outruns care.
+
+## 📓 ledger
+
+> The tally my atelier posts in the common hall. Growth is the whole point of an apprentice.
+
+<p align="center">
+  <img alt="devotees" src="https://img.shields.io/github/followers/brimwillow?style=for-the-badge&logo=github&logoColor=white&label=readers&labelColor=1a1a1a&color=b8860b"/>
+  <img alt="watching" src="https://img.shields.io/github/followers/brimwillow?style=for-the-badge&logo=github&logoColor=white&label=learning-beside&labelColor=1a1a1a&color=b8860b"/>
+  <img alt="stars" src="https://img.shields.io/github/stars/brimwillow?style=for-the-badge&logo=star&logoColor=white&label=kudos&labelColor=1a1a1a&color=b8860b"/>
+  <img alt="profile repo" src="https://img.shields.io/github/repo-size/brimwillow/brimwillow?style=for-the-badge&label=grimoire-weight&labelColor=1a1a1a&color=8b5cf6"/>
+</p>
+
+## 📖 journal
+
+- A good seal is boring to read and reliable to run — I aim for both.
+- I'm happiest when a pull request teaches me something a master once knew.
+- My ink is always wet. If your atelier needs an eager Pointed Hat, I'd love to learn from yours.
 
 ---
 
 <p align="center">
   <samp>
-    <sub>Sealed with an unapproved sigil · do not return to the council · <b>@brimwillow</b></sub>
+    <sub>Sealed with a patient, sanctioned stroke · happily learning from the masters · <b>@brimwillow</b></sub>
   </samp>
 </p>
